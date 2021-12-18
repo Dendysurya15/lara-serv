@@ -67,6 +67,7 @@
             <tr>
                 <td>test</td>
                 <td>test</td>
+                <td>coba</td>
             </tr>
         </tbody>
     </table>
